@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: PlayPy
+Version: 0.1
+Summary: A simple library for audio and video playback in Python
+Author: Arthur
+Author-email: arthur.greghi2105@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Requires-Dist: pygame
+Requires-Dist: opencv-python
